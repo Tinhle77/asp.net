@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace asp_DangXuanVu.Controllers
+namespace websitebanhang.Controllers
 {
     public class ContactController : Controller
     {
